@@ -1,2 +1,4 @@
-ddsderek/xiaoyakeeper:latest
-xiaoyaliu/alist:latest
+linuxserver/jellyfin
+linuxserver/emby
+homeassistant/home-assistant
+adolfintel/speedtest
