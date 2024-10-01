@@ -1,4 +1,1 @@
-linuxserver/jellyfin
-linuxserver/emby
-homeassistant/home-assistant
-adolfintel/speedtest
+whyour/qinglong
