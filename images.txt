@@ -1,2 +1,2 @@
 adguard/adguardhome:latest
---platform=Arm64
+--platform=linux_arm64
