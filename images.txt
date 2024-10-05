@@ -1,1 +1,2 @@
-whyour/qinglong
+adguard/adguardhome:latest
+--platform=Arm64
