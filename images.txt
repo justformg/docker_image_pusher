@@ -1,2 +1,1 @@
-adguard/adguardhome:latest
---platform=linux_arm64
+homeassistant/home-assistant:latest
